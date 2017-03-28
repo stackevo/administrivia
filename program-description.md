@@ -21,15 +21,13 @@ has impacts on protocol design, because former assumptions about the
 properties of these endpoints may no longer hold. The program is currently
 focusing on the stress this places on the architecture.
 
-The program has focused for the past few years on the problem of
-ossification in the IP protocol stack, specifically at the transport
-layer. Since the founding of this program, there is significant new work
-in the IETF's transport area addressing this issue; the program's
-members participate in work in the IETF, and monitor it on behalf of the
-IAB, with an eye toward architectural oversight. The program also
-provides a point of contact on architectural issues arising from
-interaction between these new transport protocols and the rising
-diversity of link layers deployed in the Internet.
+The program has focused for the past few years on the problem of ossification in
+the IP protocol stack, specifically at the transport layer. There is now
+significant new work in the IETF's transport area addressing this issue.  The
+program's members participate in the work in the IETF and will provide a point
+of contact should architectural issues arise from interactions between these new
+transport protocols and the diversity of link layers deployed in the Internet.
+
 
 ## Current Active work
 
