@@ -2,7 +2,7 @@
 
 What's here?
 
-- [program-description.md](IP Stack Evolutoon Program Description)
+- [IP Stack Evolutoon Program Description](https://github.com/stackevo/administrivia/blob/master/program-description.md)
 
 Contact
 
