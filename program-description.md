@@ -1,6 +1,6 @@
 # Description
 
-*Note: this description is under discussion, to be finalized shortly after IETC 98 in Chicago*
+*Note: this description is under discussion, to be finalized shortly after IETF 98 in Chicago*
 
 The IP Stack Evolution program covers various topics in the evolution of
 IPv4 and IPv6, the transport protocols running over IP, and the overall
