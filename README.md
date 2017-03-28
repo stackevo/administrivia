@@ -2,7 +2,7 @@
 
 What's here?
 
-- [IP Stack Evolutoon Program Description](https://github.com/stackevo/administrivia/blob/master/program-description.md)
+- [IP Stack Evolution Program Description](https://github.com/stackevo/administrivia/blob/master/program-description.md)
 
 Contact
 
