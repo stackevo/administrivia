@@ -26,26 +26,9 @@ the IP protocol stack, specifically at the transport layer. There is now
 significant new work in the IETF's transport area addressing this issue.  The
 program's members participate in the work in the IETF and will provide a point
 of contact should architectural issues arise from interactions between these new
-transport protocols and the diversity of link layers deployed in the Internet.
+transport protocols and the diversity of link layers deployed in the Internet. 
 
-
-## Current Active work
-
-*Note: this list is under discussion, to be finalized at the Montreal retreat at the latest*
-
-- Discussion of principles for making new protocols within the IP stack
-  deployable, following in part on RFC 5218 “What Makes for a Successful
-  Protocol”. This has resulted in 
-  [draft-iab-protocol-transitions](https://datatracker.ietf.org/doc/draft-iab-protocol-transitions/), 
-  now awaiting publication.
-- Discussion of principles for the use of encapsulation at various layers
-  within the protocol stack. UDP-based encapsulations are not only useful for
-  evolution above the IP layer, but in many tunneling contexts as well. The
-  probable commonalities among all these applications of encapsulation might be
-  useful in simplifying their implementation, deployment, and use.
-- Architectural guidance on the interoperability of protocol stacks for use in
-  constrained devices, focusing on issues related to mutually incompatible
-  interactions among application, transport, network, and link layer protocols.
+The program will continue to follow up on the results of the Stack Evolution in a Middleboxed Internet (SEMI, Zurich, January 2005) and Managing Radio Networks in an Encrypted World (MaRNEW, Atlanta, September 2005) workshops, to negotiate the tussle between privacy through ubiquitous confidentiality and opportunistic encryption, and the manageability of networks of all kinds.
 
 ## Past Workshops, BoFs, etc.
 
@@ -69,6 +52,7 @@ The Program has organized several workshops, Birds of a Feather sessions, and pr
 # Documents Published
 
 - Technical Considerations for Internet Service Blocking and Filtering ([RFC 7754](https://tools.ietf.org/html/rfc7754))
+- Planning for Protocol Adoption and Subsequent Transitions ([RFC 8170](https://tools.ietf.org/html/rfc8170))
 
 This program has itself evolved from the IP Evolution Program, which looked at general architectural issues in the evolution of IPv4 and IPv6 and the overall protocol stack architecture, and produced the following documents:
 
