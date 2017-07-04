@@ -26,7 +26,7 @@ program's members participate in the work in the IETF and will provide a point
 of contact should architectural issues arise from interactions between these new
 transport protocols and the diversity of link layers deployed in the Internet. 
 
-The program will continue to follow up on the results of the Stack Evolution in a Middleboxed Internet (SEMI, Zurich, January 2005) and Managing Radio Networks in an Encrypted World (MaRNEW, Atlanta, September 2005) workshops, to negotiate the tussle between privacy through ubiquitous confidentiality and opportunistic encryption, and the manageability of networks of all kinds.
+The program will continue to follow up on the results of the Stack Evolution in a Middleboxed Internet (SEMI, Zurich, January 2015) and Managing Radio Networks in an Encrypted World (MaRNEW, Atlanta, September 2015) workshops, to negotiate the tussle between privacy through ubiquitous confidentiality and opportunistic encryption, and the manageability of networks of all kinds.
 
 ## Past Workshops, BoFs, etc.
 
